@@ -1,0 +1,1714 @@
+{
+	"python-aafigure": [
+		"python-reportlab"
+	],
+	"python-adodb": [
+		"python-mysqldb",
+		"python-psycopg"
+	],
+	"python-aiocoap-doc": [
+		"python3-aiocoap"
+	],
+	"python-argh": [
+		"python-argcomplete"
+	],
+	"python-ase": [
+		"python-tk"
+	],
+	"python-astlib": [
+		"python-pil"
+	],
+	"python-astroml": [
+		"python-pymc",
+		"python-healpy"
+	],
+	"python-astropy-affiliated": [
+		"python-reproject",
+		"python-galpy",
+		"python-cpl",
+		"python-pyvo",
+		"python-astroplan",
+		"python-aplpy",
+		"python-imexam",
+		"python-glue",
+		"python-pyregion",
+		"python-specutils",
+		"python-pydl",
+		"python-astroquery",
+		"python-photutils",
+		"python-ginga",
+		"python-astroscrappy",
+		"python-astroml",
+		"python-gwcs",
+		"python-ccdproc",
+		"python-spectral-cube"
+	],
+	"python-attr-doc": [
+		"python3-doc"
+	],
+	"python-audioread": [
+		"python-pymad"
+	],
+	"python-authkit": [
+		"python-mysqldb",
+		"python-sqlalchemy"
+	],
+	"python-azure": [
+		"python-azure-storage"
+	],
+	"python-barbican": [
+		"python-pymysql"
+	],
+	"python-bcolz": [
+		"python-numexpr"
+	],
+	"python-beaker": [
+		"python-pkg-resources"
+	],
+	"python-beautifulsoup": [
+		"python-chardet"
+	],
+	"python-biopython-doc": [
+		"python-biopython"
+	],
+	"python-blosc-doc": [
+		"python-blosc",
+		"python3-blosc"
+	],
+	"python-breezy": [
+		"python-launchpadlib",
+		"python-paramiko"
+	],
+	"python-brian": [
+		"python-sympy"
+	],
+	"python-bs4": [
+		"python-lxml",
+		"python-chardet",
+		"python-html5lib"
+	],
+	"python-bzrlib": [
+		"python-launchpadlib",
+		"python-paramiko"
+	],
+	"python-cairocffi": [
+		"python-xcffib"
+	],
+	"python-canmatrix": [
+		"python-lxml",
+		"python-yaml",
+		"python-xlrd",
+		"python-xlwt",
+		"python-xlsxwriter"
+	],
+	"python-carrot": [
+		"python-stompy"
+	],
+	"python-cement": [
+		"python-genshi",
+		"python-argcomplete",
+		"python-tabulate",
+		"python-pyinotify",
+		"python-pylibmc",
+		"python-yaml",
+		"python-watchdog",
+		"python-pystache",
+		"python-colorlog",
+		"python-configobj",
+		"python-jinja2"
+	],
+	"python-cfflib": [
+		"python-tables",
+		"python-sphinx",
+		"python-h5py",
+		"python-nose"
+	],
+	"python-chemfp": [
+		"python-openbabel",
+		"python-rdkit"
+	],
+	"python-cherrypy3": [
+		"python-simplejson",
+		"python-routes"
+	],
+	"python-cinfony": [
+		"python-openbabel",
+		"python-indigo",
+		"python-rdkit"
+	],
+	"python-cobra": [
+		"python-numpy",
+		"python-scipy",
+		"python-pandas"
+	],
+	"python-csound": [
+		"python-numpy",
+		"python-matplotlib"
+	],
+	"python-dap": [
+		"python-cheetah",
+		"python-pastedeploy",
+		"python-paste",
+		"python-pastescript"
+	],
+	"python-datalad": [
+		"python-httpretty",
+		"python-duecredit",
+		"python-numpy",
+		"python-requests-ftp",
+		"python-scrapy",
+		"python-html5lib",
+		"python-yaml",
+		"python-nose"
+	],
+	"python-dballe": [
+		"python-numpy"
+	],
+	"python-dbus": [
+		"python-gi"
+	],
+	"python-dbus-tests": [
+		"python-gi"
+	],
+	"python-deap": [
+		"python-numpy",
+		"python-matplotlib"
+	],
+	"python-debian": [
+		"python-apt"
+	],
+	"python-dicom": [
+		"python-pil",
+		"python-numpy"
+	],
+	"python-dipy": [
+		"python-vtk",
+		"python-nibabel",
+		"python-matplotlib",
+		"python-nose"
+	],
+	"python-django": [
+		"python-sqlparse"
+	],
+	"python-django-debug-toolbar": [
+		"python-pygments"
+	],
+	"python-django-fsm": [
+		"python-pygraphviz"
+	],
+	"python-django-housekeeping": [
+		"python-django"
+	],
+	"python-django-oauth-toolkit": [
+		"python-djangorestframework"
+	],
+	"python-django-pipeline": [
+		"python-jsmin"
+	],
+	"python-django-polymorphic": [
+		"python-django-extra-views"
+	],
+	"python-djangorestframework": [
+		"python-django-guardian",
+		"python-django-filters",
+		"python-markdown"
+	],
+	"python-djangorestframework-generators": [
+		"python-djangorestframework"
+	],
+	"python-dockerpty": [
+		"python-docker"
+	],
+	"python-docutils": [
+		"python-pil",
+		"python-pygments"
+	],
+	"python-dogtail": [
+		"python-elementtree",
+		"python-celementtree"
+	],
+	"python-doit-doc": [
+		"python3-doit"
+	],
+	"python-dput": [
+		"python-paramiko",
+		"python-distro-info",
+		"python-validictory"
+	],
+	"python-dugong-doc": [
+		"python3-dugong"
+	],
+	"python-dulwich": [
+		"python-fastimport"
+	],
+	"python-elixir": [
+		"python-crypto"
+	],
+	"python-epydoc": [
+		"python-tk",
+		"python-docutils"
+	],
+	"python-escript": [
+		"python-sympy",
+		"python-matplotlib",
+		"python-scipy"
+	],
+	"python-escript-doc": [
+		"python-escript"
+	],
+	"python-escript-mpi": [
+		"python-sympy",
+		"python-matplotlib",
+		"python-scipy"
+	],
+	"python-expyriment": [
+		"python-serial",
+		"python-numpy"
+	],
+	"python-extras": [
+		"python-testtools"
+	],
+	"python-fastcluster": [
+		"python-scipy"
+	],
+	"python-fdb-doc": [
+		"python-fdb"
+	],
+	"python-feedparser": [
+		"python-chardet",
+		"python-utidylib"
+	],
+	"python-ferret": [
+		"python-pyshp",
+		"python-scipy"
+	],
+	"python-flask": [
+		"python-pkg-resources",
+		"python-blinker"
+	],
+	"python-flask-doc": [
+		"python-flask"
+	],
+	"python-galpy": [
+		"python-astropy"
+	],
+	"python-gamera": [
+		"python-pil",
+		"python-numpy"
+	],
+	"python-gamera-dev": [
+		"python-gamera"
+	],
+	"python-geopandas": [
+		"python-rtree",
+		"python-descartes",
+		"python-matplotlib",
+		"python-geopy",
+		"python-psycopg2",
+		"python-pysal"
+	],
+	"python-geopy": [
+		"python-tz",
+		"python-requests-oauthlib",
+		"python-requests"
+	],
+	"python-ginga": [
+		"python-pil",
+		"python-pyqt5",
+		"python-magic",
+		"python-matplotlib",
+		"python-scipy"
+	],
+	"python-gmpy-doc": [
+		"python-gmpy"
+	],
+	"python-gmpy2-common": [
+		"python-gmpy2",
+		"python3-gmpy2"
+	],
+	"python-gmpy2-doc": [
+		"python-gmpy2",
+		"python3-gmpy2"
+	],
+	"python-grapefruit-doc": [
+		"python-grapefruit"
+	],
+	"python-greenlet-dbg": [
+		"python-dbg"
+	],
+	"python-guiqwt": [
+		"python-dicom"
+	],
+	"python-gumbo": [
+		"python-beautifulsoup",
+		"python-html5lib"
+	],
+	"python-hiredis": [
+		"python-redis"
+	],
+	"python-hl7": [
+		"python-mock"
+	],
+	"python-html2text": [
+		"python-feedparser"
+	],
+	"python-imdbpy": [
+		"python-lxml"
+	],
+	"python-imexam": [
+		"python-ginga",
+		"python-scipy",
+		"python-matplotlib"
+	],
+	"python-imposm": [
+		"python-rtree"
+	],
+	"python-incremental": [
+		"python-click"
+	],
+	"python-ipatests": [
+		"python-yaml"
+	],
+	"python-itango": [
+		"python-qtconsole"
+	],
+	"python-itsdangerous": [
+		"python-simplejson"
+	],
+	"python-jinja2": [
+		"python-pkg-resources"
+	],
+	"python-jinja2-doc": [
+		"python-jinja2"
+	],
+	"python-joblib": [
+		"python-pytest",
+		"python-numpy",
+		"python-simplejson"
+	],
+	"python-jupyter-core": [
+		"python-pip"
+	],
+	"python-jwt": [
+		"python-cryptography"
+	],
+	"python-keyring": [
+		"python-keyrings.alt"
+	],
+	"python-klaus": [
+		"python-docutils",
+		"python-chardet",
+		"python-markdown"
+	],
+	"python-kombu": [
+		"python-yaml"
+	],
+	"python-livereload": [
+		"python-pyinotify"
+	],
+	"python-livereload-doc": [
+		"python-livereload"
+	],
+	"python-llfuse-dbg": [
+		"python-dbg"
+	],
+	"python-llfuse-doc": [
+		"python-llfuse",
+		"python3-llfuse"
+	],
+	"python-lockfile-doc": [
+		"python-lockfile"
+	],
+	"python-lxml": [
+		"python-html5lib",
+		"python-bs4"
+	],
+	"python-lxml-doc": [
+		"python-lxml"
+	],
+	"python-mapproxy": [
+		"python-botocore",
+		"python-lxml",
+		"python-shapely",
+		"python-gdal",
+		"python-boto3",
+		"python-pastedeploy",
+		"python-redis"
+	],
+	"python-markdown": [
+		"python-yaml",
+		"python-pygments"
+	],
+	"python-matplotlib": [
+		"python-pil",
+		"python-tk"
+	],
+	"python-mdp": [
+		"python-joblib",
+		"python-pp",
+		"python-pytest",
+		"python-sklearn",
+		"python-scipy",
+		"python-libsvm"
+	],
+	"python-meliae": [
+		"python-simplejson"
+	],
+	"python-mne": [
+		"python-pytest",
+		"python-nibabel",
+		"python-nose"
+	],
+	"python-moinmoin": [
+		"python-xappy"
+	],
+	"python-mongoengine": [
+		"python-django"
+	],
+	"python-mpltoolkits.basemap": [
+		"python-dap",
+		"python-pil"
+	],
+	"python-multicorn": [
+		"python-ldap3",
+		"python-lxml",
+		"python-sqlalchemy"
+	],
+	"python-murano": [
+		"python-ldap"
+	],
+	"python-musicbrainzngs-doc": [
+		"python-musicbrainzngs",
+		"python3-musicbrainzngs"
+	],
+	"python-mutagen-doc": [
+		"python-mutagen"
+	],
+	"python-mvpa2": [
+		"python-joblib",
+		"python-lxml",
+		"python-statsmodels",
+		"python-duecredit",
+		"python-mock",
+		"python-pprocess",
+		"python-nibabel",
+		"python-nipy",
+		"python-h5py",
+		"python-pywt",
+		"python-shogun",
+		"python-sklearn",
+		"python-matplotlib",
+		"python-psutil",
+		"python-scipy",
+		"python-mdp",
+		"python-reportlab",
+		"python-psyco"
+	],
+	"python-natsort-doc": [
+		"python3-natsort"
+	],
+	"python-neo": [
+		"python-tables",
+		"python-scipy"
+	],
+	"python-networkx": [
+		"python-yaml",
+		"python-pkg-resources",
+		"python-numpy"
+	],
+	"python-nibabel": [
+		"python-dicom",
+		"python-fuse",
+		"python-mock"
+	],
+	"python-nipy": [
+		"python-sympy",
+		"python-matplotlib"
+	],
+	"python-nipy-doc": [
+		"python-nipy"
+	],
+	"python-nipype": [
+		"python-cfflib",
+		"python-xvfbwrapper"
+	],
+	"python-nitime": [
+		"python-nibabel",
+		"python-networkx",
+		"python-nose"
+	],
+	"python-nltk": [
+		"python-tk",
+		"python-numpy"
+	],
+	"python-notebook": [
+		"python-ipywidgets"
+	],
+	"python-ntdb-dbg": [
+		"python-dbg"
+	],
+	"python-omniorb-dbg": [
+		"python-dbg"
+	],
+	"python-openopt": [
+		"python-cvxopt",
+		"python-matplotlib",
+		"python-scipy"
+	],
+	"python-openpyxl": [
+		"python-pytest",
+		"python-pil"
+	],
+	"python-pandas": [
+		"python-lxml",
+		"python-html5lib",
+		"python-xlrd",
+		"python-matplotlib",
+		"python-scipy",
+		"python-tables",
+		"python-openpyxl",
+		"python-xlwt",
+		"python-statsmodels",
+		"python-numexpr",
+		"python-bs4"
+	],
+	"python-parsedatetime": [
+		"python-pyicu"
+	],
+	"python-paste": [
+		"python-ctypes",
+		"python-scgi"
+	],
+	"python-pastedeploy": [
+		"python-pastescript"
+	],
+	"python-patsy": [
+		"python-openpyxl",
+		"python-pandas"
+	],
+	"python-pbcommand": [
+		"python-pbcore"
+	],
+	"python-pcapy": [
+		"python-impacket"
+	],
+	"python-pebl": [
+		"python-boto"
+	],
+	"python-pebl-doc": [
+		"python-pebl"
+	],
+	"python-peewee": [
+		"python-pymysql",
+		"python-psycopg2",
+		"python-mysqldb"
+	],
+	"python-pep8-naming": [
+		"python-flake8"
+	],
+	"python-petsc4py-docs": [
+		"python-petsc4py",
+		"python3-petsc4py"
+	],
+	"python-photutils": [
+		"python-skimage",
+		"python-scipy"
+	],
+	"python-pil": [
+		"python-olefile"
+	],
+	"python-pip": [
+		"python-wheel",
+		"python-setuptools"
+	],
+	"python-plastex": [
+		"python-kid",
+		"python-genshi",
+		"python-cheetah"
+	],
+	"python-pocket-lint": [
+		"python-cssutils"
+	],
+	"python-profitbricks": [
+		"python-appdirs",
+		"python-keyring"
+	],
+	"python-prompt-toolkit": [
+		"python-pygments"
+	],
+	"python-proxmoxer": [
+		"python-paramiko",
+		"python-requests"
+	],
+	"python-pskc": [
+		"python-lxml",
+		"python-defusedxml"
+	],
+	"python-psycogreen": [
+		"python-psycopg2"
+	],
+	"python-pychart-doc": [
+		"python-pychart"
+	],
+	"python-pycuda-doc": [
+		"python3-doc"
+	],
+	"python-pyds9": [
+		"python-astropy",
+		"python-numpy",
+		"python-pyfits"
+	],
+	"python-pyentropy": [
+		"python-scipy"
+	],
+	"python-pyevolve": [
+		"python-tk",
+		"python-numpy",
+		"python-matplotlib",
+		"python-pydot"
+	],
+	"python-pyevolve-doc": [
+		"python-pyevolve"
+	],
+	"python-pyexiv2-doc": [
+		"python-pyexiv2"
+	],
+	"python-pygments": [
+		"python-chardet",
+		"python-pkg-resources"
+	],
+	"python-pygments-doc": [
+		"python-pygments"
+	],
+	"python-pyinotify-doc": [
+		"python-pyinotify",
+		"python3-pyinotify"
+	],
+	"python-pykaraoke": [
+		"python-mutagen"
+	],
+	"python-pylons": [
+		"python-sqlobject",
+		"python-sqlalchemy"
+	],
+	"python-pymca5": [
+		"python-mdp",
+		"python-h5py"
+	],
+	"python-pymca5-dbg": [
+		"python-mdp"
+	],
+	"python-pynn": [
+		"python-cheetah",
+		"python-jinja2"
+	],
+	"python-pyo": [
+		"python-tk"
+	],
+	"python-pyopencl": [
+		"python-mako"
+	],
+	"python-pyopencl-doc": [
+		"python3-doc"
+	],
+	"python-pyqtgraph": [
+		"python-matplotlib"
+	],
+	"python-pyraf": [
+		"python-tk",
+		"python-numpy"
+	],
+	"python-pyresample": [
+		"python-pil",
+		"python-numexpr"
+	],
+	"python-pysal": [
+		"python-geojson",
+		"python-seaborn",
+		"python-shapely",
+		"python-sklearn",
+		"python-matplotlib",
+		"python-numexpr",
+		"python-geopandas"
+	],
+	"python-pysnmp4": [
+		"python-twisted"
+	],
+	"python-pysolr": [
+		"python-httplib2"
+	],
+	"python-pytest-doc": [
+		"python-pytest",
+		"python3-pytest"
+	],
+	"python-pyvisa": [
+		"python-pyvisa-py"
+	],
+	"python-pyvisa-py": [
+		"python-pyvisa"
+	],
+	"python-pywps": [
+		"python-pyproj",
+		"python-mapscript"
+	],
+	"python-pyxmpp": [
+		"python-zope.interface"
+	],
+	"python-pyxnat": [
+		"python-networkx",
+		"python-matplotlib"
+	],
+	"python-raven": [
+		"python-contextlib2"
+	],
+	"python-rdflib": [
+		"python-sparqlwrapper",
+		"python-html5lib"
+	],
+	"python-reproject": [
+		"python-healpy"
+	],
+	"python-rope": [
+		"python-svn"
+	],
+	"python-routes": [
+		"python-webob"
+	],
+	"python-rows": [
+		"python-lxml",
+		"python-xlrd",
+		"python-xlwt"
+	],
+	"python-rpyc-doc": [
+		"python3-rpyc"
+	],
+	"python-sahara": [
+		"python-ldap"
+	],
+	"python-sane": [
+		"python-tk"
+	],
+	"python-scipy": [
+		"python-pil"
+	],
+	"python-scrapy": [
+		"python-pil",
+		"python-pygments",
+		"python-mysqldb"
+	],
+	"python-sdl2": [
+		"python-numpy"
+	],
+	"python-seaborn": [
+		"python-statsmodels",
+		"python-patsy",
+		"python-bs4"
+	],
+	"python-secretstorage": [
+		"python-gi"
+	],
+	"python-send2trash": [
+		"python-gi"
+	],
+	"python-service-identity": [
+		"python-idna"
+	],
+	"python-shapely-doc": [
+		"python-shapely",
+		"python3-shapely"
+	],
+	"python-shogun": [
+		"python-matplotlib",
+		"python-scipy"
+	],
+	"python-simplejson-doc": [
+		"python-simplejson"
+	],
+	"python-skimage": [
+		"python-nose"
+	],
+	"python-skimage-lib": [
+		"python-skimage"
+	],
+	"python-sklearn": [
+		"python-pytest",
+		"python-matplotlib",
+		"python-nose"
+	],
+	"python-sleekxmpp": [
+		"python-socksipy",
+		"python-dateutil",
+		"python-gnupg",
+		"python-socks"
+	],
+	"python-slepc4py-docs": [
+		"python-slepc4py",
+		"python3-slepc4py"
+	],
+	"python-smstrade": [
+		"python3-smstrade"
+	],
+	"python-soapysdr": [
+		"python-numpy"
+	],
+	"python-soundfile": [
+		"python-numpy"
+	],
+	"python-specutils": [
+		"python-scipy"
+	],
+	"python-sphinx": [
+		"python-enum34",
+		"python-pil"
+	],
+	"python-sphinx-rtd-theme": [
+		"python-sphinx"
+	],
+	"python-sphinxcontrib.issuetracker": [
+		"python-launchpadlib"
+	],
+	"python-sphinxcontrib.websupport": [
+		"python-whoosh",
+		"python-sqlalchemy"
+	],
+	"python-spykeutils": [
+		"python-joblib",
+		"python-guidata",
+		"python-guiqwt",
+		"python-sklearn",
+		"python-tables"
+	],
+	"python-sqlalchemy": [
+		"python-sqlalchemy-ext"
+	],
+	"python-sqlalchemy-doc": [
+		"python-sqlalchemy"
+	],
+	"python-sqlite-dbg": [
+		"python-dbg"
+	],
+	"python-sqlkit": [
+		"python-psycopg2",
+		"python-mysqldb"
+	],
+	"python-sqlkit-doc": [
+		"python-sqlkit"
+	],
+	"python-srs": [
+		"python-bsddb3"
+	],
+	"python-statsmodels": [
+		"python-joblib",
+		"python-cvxopt",
+		"python-matplotlib"
+	],
+	"python-stfio": [
+		"python-matplotlib",
+		"python-scipy",
+		"python-pandas"
+	],
+	"python-sunpy": [
+		"python-sqlalchemy",
+		"python-requests",
+		"python-suds",
+		"python-skimage",
+		"python-bs4"
+	],
+	"python-sympy": [
+		"python-pil",
+		"python-ctypes",
+		"python-numpy",
+		"python-pyglet",
+		"python-gmpy"
+	],
+	"python-tables-lib": [
+		"python-tables"
+	],
+	"python-taurus": [
+		"python-pymca5"
+	],
+	"python-terminaltables-doc": [
+		"python3-terminaltables"
+	],
+	"python-theano": [
+		"python-nose-parameterized",
+		"python-pydot",
+		"python-nose"
+	],
+	"python-tifffile": [
+		"python-matplotlib"
+	],
+	"python-tlslite-ng": [
+		"python-crypto",
+		"python-m2crypto",
+		"python-gmpy"
+	],
+	"python-tofu": [
+		"python-cerealizer"
+	],
+	"python-translate": [
+		"python-lxml",
+		"python-iniparse",
+		"python-l20n",
+		"python-utidylib",
+		"python-yaml",
+		"python-pycountry",
+		"python-chardet",
+		"python-vobject",
+		"python-babel",
+		"python-simplejson",
+		"python-bs4"
+	],
+	"python-turbogears2": [
+		"python-tg.devtools"
+	],
+	"python-twext": [
+		"python-ldap",
+		"python-sqlparse"
+	],
+	"python-twisted-core": [
+		"python-serial",
+		"python-pam"
+	],
+	"python-typogrify": [
+		"python-jinja2"
+	],
+	"python-uncertainties": [
+		"python-numpy"
+	],
+	"python-urllib3": [
+		"python-ipaddress",
+		"python-idna",
+		"python-cryptography"
+	],
+	"python-vobject": [
+		"python-tz"
+	],
+	"python-weboob": [
+		"python-gdata",
+		"python-feedparser",
+		"python-clientform",
+		"python-pillow"
+	],
+	"python-webpy": [
+		"python-cheetah",
+		"python-flup",
+		"python-mysqldb",
+		"python-psycopg2"
+	],
+	"python-webtest": [
+		"python-lxml"
+	],
+	"python-werkzeug": [
+		"python-pyinotify"
+	],
+	"python-wheel": [
+		"python-xdg",
+		"python-keyrings.alt",
+		"python-keyring"
+	],
+	"python-willow": [
+		"python-pil",
+		"python-wand"
+	],
+	"python-xmlrunner": [
+		"python-unittest2"
+	],
+	"python-xmpp": [
+		"python-dnspython"
+	],
+	"python-z3c.form": [
+		"python-zope.site"
+	],
+	"python-zc.customdoctests": [
+		"python-spidermonkey",
+		"python-manuel"
+	],
+	"python-zope.app.locales": [
+		"python-zope.app.applicationcontrol",
+		"python-zope.app.appsetup",
+		"python-zope.tal"
+	],
+	"python-zope.browserpage": [
+		"python-zope.browsermenu"
+	],
+	"python-zope.securitypolicy": [
+		"python-zope.dublincore"
+	],
+	"python-zzzeeksphinx": [
+		"python-pygments"
+	],
+	"python3-aeidon": [
+		"python3-chardet"
+	],
+	"python3-aiopg": [
+		"python3-sqlalchemy"
+	],
+	"python3-aiozmq": [
+		"python3-msgpack"
+	],
+	"python3-argh": [
+		"python3-argcomplete"
+	],
+	"python3-ase": [
+		"python3-tk"
+	],
+	"python3-astlib": [
+		"python3-pil"
+	],
+	"python3-astroml": [
+		"python3-pymc",
+		"python3-healpy"
+	],
+	"python3-astropy-affiliated": [
+		"python3-imexam",
+		"python3-aplpy",
+		"python3-gwcs",
+		"python3-pydl",
+		"python3-glue",
+		"python3-astroquery",
+		"python3-ccdproc",
+		"python3-astroml",
+		"python3-galpy",
+		"python3-astroscrappy",
+		"python3-reproject",
+		"python3-spectral-cube",
+		"python3-astroplan",
+		"python3-pyregion",
+		"python3-specutils",
+		"python3-ginga",
+		"python3-pyvo",
+		"python3-cpl",
+		"python3-photutils"
+	],
+	"python3-asyncssh": [
+		"python3-bcrypt"
+	],
+	"python3-autopilot": [
+		"python3-xlib"
+	],
+	"python3-autopilot-vis": [
+		"python3-lxml"
+	],
+	"python3-azure": [
+		"python-azure-storage"
+	],
+	"python3-bcolz": [
+		"python3-numexpr"
+	],
+	"python3-beaker": [
+		"python3-pkg-resources"
+	],
+	"python3-binwalk": [
+		"python3-pyqtgraph"
+	],
+	"python3-bottle-cork": [
+		"python3-bottle-beaker"
+	],
+	"python3-bs4": [
+		"python3-chardet",
+		"python3-lxml"
+	],
+	"python3-buildbot": [
+		"python3-buildbot-worker"
+	],
+	"python3-cairocffi": [
+		"python3-xcffib"
+	],
+	"python3-canmatrix": [
+		"python3-yaml",
+		"python3-lxml",
+		"python3-xlsxwriter",
+		"python3-xlrd"
+	],
+	"python3-cement": [
+		"python3-configobj",
+		"python3-colorlog",
+		"python3-tabulate",
+		"python3-yaml",
+		"python3-genshi",
+		"python3-pystache",
+		"python3-pyinotify",
+		"python3-argcomplete",
+		"python3-jinja2",
+		"python3-watchdog",
+		"python3-pylibmc"
+	],
+	"python3-cherrypy3": [
+		"python3-simplejson",
+		"python3-routes"
+	],
+	"python3-cobra": [
+		"python3-pandas",
+		"python3-scipy",
+		"python3-numpy"
+	],
+	"python3-dask": [
+		"python3-toolz",
+		"python3-numpy"
+	],
+	"python3-dballe": [
+		"python3-numpy"
+	],
+	"python3-dbus": [
+		"python3-gi"
+	],
+	"python3-dbus-tests": [
+		"python3-gi"
+	],
+	"python3-deap": [
+		"python3-numpy",
+		"python3-matplotlib"
+	],
+	"python3-debian": [
+		"python3-apt"
+	],
+	"python3-dicom": [
+		"python3-pil",
+		"python3-numpy"
+	],
+	"python3-distributed": [
+		"python3-pandas",
+		"python3-yaml"
+	],
+	"python3-django": [
+		"python3-sqlparse"
+	],
+	"python3-django-debug-toolbar": [
+		"python3-pygments"
+	],
+	"python3-django-fsm": [
+		"python3-pygraphviz"
+	],
+	"python3-django-housekeeping": [
+		"python3-django"
+	],
+	"python3-django-oauth-toolkit": [
+		"python3-djangorestframework"
+	],
+	"python3-django-otp": [
+		"python3-qrcode"
+	],
+	"python3-django-pipeline": [
+		"python3-jsmin"
+	],
+	"python3-django-polymorphic": [
+		"python3-django-extra-views"
+	],
+	"python3-djangorestframework": [
+		"python3-markdown",
+		"python3-django-filters",
+		"python3-django-guardian"
+	],
+	"python3-djangorestframework-generators": [
+		"python3-djangorestframework"
+	],
+	"python3-dockerpty": [
+		"python3-docker"
+	],
+	"python3-docutils": [
+		"python3-pygments",
+		"python3-pil"
+	],
+	"python3-drslib": [
+		"python3-xlrd"
+	],
+	"python3-dulwich": [
+		"python3-fastimport"
+	],
+	"python3-escript": [
+		"python3-sympy",
+		"python3-scipy",
+		"python3-matplotlib"
+	],
+	"python3-escript-mpi": [
+		"python3-sympy",
+		"python3-scipy",
+		"python3-matplotlib"
+	],
+	"python3-extras": [
+		"python3-testtools"
+	],
+	"python3-fastcluster": [
+		"python3-scipy"
+	],
+	"python3-ferret": [
+		"python3-pyshp",
+		"python3-scipy"
+	],
+	"python3-flask": [
+		"python3-blinker",
+		"python3-pkg-resources"
+	],
+	"python3-galpy": [
+		"python3-astropy"
+	],
+	"python3-geopandas": [
+		"python3-rtree",
+		"python3-matplotlib",
+		"python3-descartes",
+		"python3-pysal",
+		"python3-psycopg2",
+		"python3-geopy"
+	],
+	"python3-geopy": [
+		"python3-requests-oauthlib",
+		"python3-requests",
+		"python3-tz"
+	],
+	"python3-ginga": [
+		"python3-matplotlib",
+		"python3-magic",
+		"python3-pyqt5",
+		"python3-scipy",
+		"python3-pil"
+	],
+	"python3-greenlet-dbg": [
+		"python-dbg"
+	],
+	"python3-guiqwt": [
+		"python3-dicom"
+	],
+	"python3-gumbo": [
+		"python3-html5lib"
+	],
+	"python3-hiredis": [
+		"python3-redis"
+	],
+	"python3-hl7": [
+		"python3-mock"
+	],
+	"python3-html2text": [
+		"python3-feedparser"
+	],
+	"python3-imexam": [
+		"python3-ginga",
+		"python3-scipy",
+		"python3-matplotlib"
+	],
+	"python3-incremental": [
+		"python3-twisted",
+		"python3-click"
+	],
+	"python3-itango": [
+		"python3-qtconsole"
+	],
+	"python3-itsdangerous": [
+		"python3-simplejson"
+	],
+	"python3-jinja2": [
+		"python3-pkg-resources"
+	],
+	"python3-joblib": [
+		"python3-simplejson",
+		"python3-numpy",
+		"python3-pytest"
+	],
+	"python3-jupyter-core": [
+		"python3-pip"
+	],
+	"python3-jwt": [
+		"python3-cryptography"
+	],
+	"python3-keyring": [
+		"python3-keyrings.alt"
+	],
+	"python3-klaus": [
+		"python3-markdown",
+		"python3-docutils",
+		"python3-chardet"
+	],
+	"python3-kombu": [
+		"python3-yaml"
+	],
+	"python3-lexicon": [
+		"python3-softlayer",
+		"python3-boto3"
+	],
+	"python3-livereload": [
+		"python3-pyinotify"
+	],
+	"python3-llfuse-dbg": [
+		"python-dbg"
+	],
+	"python3-lttnganalyses": [
+		"python3-progressbar"
+	],
+	"python3-lxml": [
+		"python3-html5lib",
+		"python3-bs4"
+	],
+	"python3-magcode-core": [
+		"python3-setproctitle"
+	],
+	"python3-mapproxy": [
+		"python3-gdal",
+		"python3-redis",
+		"python3-pastedeploy",
+		"python3-shapely",
+		"python3-lxml",
+		"python3-botocore",
+		"python3-boto3"
+	],
+	"python3-markdown": [
+		"python3-pygments",
+		"python3-yaml"
+	],
+	"python3-markups": [
+		"python3-markdown",
+		"python3-docutils",
+		"python3-pygments",
+		"python3-textile"
+	],
+	"python3-matplotlib": [
+		"python3-tk",
+		"python3-pil"
+	],
+	"python3-mdp": [
+		"python3-joblib",
+		"python3-sklearn",
+		"python3-scipy",
+		"python3-pytest"
+	],
+	"python3-memprof": [
+		"python-memprof"
+	],
+	"python3-meshio": [
+		"python3-netcdf4",
+		"python3-h5py"
+	],
+	"python3-mongoengine": [
+		"python3-django"
+	],
+	"python3-mpltoolkits.basemap": [
+		"python3-pil"
+	],
+	"python3-multicorn": [
+		"python3-sqlalchemy",
+		"python3-ldap3",
+		"python3-lxml"
+	],
+	"python3-networkx": [
+		"python3-yaml",
+		"python3-numpy",
+		"python3-pkg-resources"
+	],
+	"python3-nltk": [
+		"python3-tk",
+		"python3-numpy"
+	],
+	"python3-notebook": [
+		"python3-ipywidgets"
+	],
+	"python3-openpyxl": [
+		"python3-pil",
+		"python3-pytest"
+	],
+	"python3-pandas": [
+		"python3-matplotlib",
+		"python3-numexpr",
+		"python3-html5lib",
+		"python3-scipy",
+		"python3-lxml",
+		"python3-bs4",
+		"python3-tables"
+	],
+	"python3-parsedatetime": [
+		"python-pyicu"
+	],
+	"python3-partd": [
+		"python3-pandas",
+		"python3-numpy",
+		"python3-zmq",
+		"python3-blosc"
+	],
+	"python3-pastedeploy": [
+		"python3-pastescript"
+	],
+	"python3-patsy": [
+		"python3-pandas"
+	],
+	"python3-peewee": [
+		"python3-psycopg2",
+		"python3-mysqldb",
+		"python3-pymysql"
+	],
+	"python3-pep8-naming": [
+		"python3-flake8"
+	],
+	"python3-pgpy-doc": [
+		"python3-pgpy"
+	],
+	"python3-photutils": [
+		"python-skimage",
+		"python3-scipy"
+	],
+	"python3-pil": [
+		"python3-olefile"
+	],
+	"python3-pip": [
+		"python3-setuptools",
+		"python3-wheel"
+	],
+	"python3-pocket-lint": [
+		"python-cssutils"
+	],
+	"python3-prawcore": [
+		"python3-praw"
+	],
+	"python3-profitbricks": [
+		"python3-appdirs",
+		"python3-keyring"
+	],
+	"python3-prompt-toolkit": [
+		"python3-pygments"
+	],
+	"python3-proxmoxer": [
+		"python3-paramiko",
+		"python3-requests"
+	],
+	"python3-pskc": [
+		"python3-lxml",
+		"python3-defusedxml"
+	],
+	"python3-pyds9": [
+		"python3-pyfits",
+		"python3-numpy",
+		"python3-astropy"
+	],
+	"python3-pygments": [
+		"python3-pkg-resources"
+	],
+	"python3-pymca5": [
+		"python3-mdp",
+		"python3-h5py"
+	],
+	"python3-pymca5-dbg": [
+		"python3-mdp"
+	],
+	"python3-pyo": [
+		"python3-tk"
+	],
+	"python3-pyopencl": [
+		"python3-mako"
+	],
+	"python3-pyqtgraph": [
+		"python3-matplotlib"
+	],
+	"python3-pyraf": [
+		"python3-tk",
+		"python3-numpy"
+	],
+	"python3-pyresample": [
+		"python3-numexpr",
+		"python3-dask",
+		"python3-pil"
+	],
+	"python3-pysal": [
+		"python3-matplotlib",
+		"python3-geopandas",
+		"python3-numexpr",
+		"python3-shapely",
+		"python3-seaborn",
+		"python3-geojson",
+		"python3-sklearn"
+	],
+	"python3-pysolr": [
+		"python3-httplib2"
+	],
+	"python3-pytestqt": [
+		"python3-pyqt4",
+		"python3-pyqt5"
+	],
+	"python3-pyvisa": [
+		"python3-pyvisa-py"
+	],
+	"python3-pyvisa-py": [
+		"python3-pyvisa"
+	],
+	"python3-qtile": [
+		"python3-xdg",
+		"python3-keyring"
+	],
+	"python3-rdflib": [
+		"python3-sparqlwrapper",
+		"python3-html5lib"
+	],
+	"python3-reproject": [
+		"python3-healpy"
+	],
+	"python3-rope": [
+		"python-svn"
+	],
+	"python3-routes": [
+		"python3-webob"
+	],
+	"python3-rpyc": [
+		"python3-paramiko"
+	],
+	"python3-sane": [
+		"python3-tk"
+	],
+	"python3-scipy": [
+		"python3-pil"
+	],
+	"python3-scrapy": [
+		"python3-mysqldb",
+		"python3-pygments",
+		"python3-pil"
+	],
+	"python3-sdl2": [
+		"python3-numpy"
+	],
+	"python3-seaborn": [
+		"python3-patsy",
+		"python3-bs4"
+	],
+	"python3-secretstorage": [
+		"python3-gi"
+	],
+	"python3-send2trash": [
+		"python3-gi"
+	],
+	"python3-service-identity": [
+		"python3-idna"
+	],
+	"python3-simple-cdd": [
+		"python3-yaml"
+	],
+	"python3-skimage": [
+		"python3-nose"
+	],
+	"python3-skimage-lib": [
+		"python3-skimage"
+	],
+	"python3-sklearn": [
+		"python-pytest",
+		"python3-nose",
+		"python3-matplotlib"
+	],
+	"python3-sleekxmpp": [
+		"python3-gnupg",
+		"python3-dateutil",
+		"python3-socks",
+		"python3-socksipy"
+	],
+	"python3-soapysdr": [
+		"python3-numpy"
+	],
+	"python3-soundfile": [
+		"python3-numpy"
+	],
+	"python3-specutils": [
+		"python-scipy"
+	],
+	"python3-sphinx": [
+		"python3-pil"
+	],
+	"python3-sphinx-rtd-theme": [
+		"python3-sphinx"
+	],
+	"python3-sphinxcontrib.websupport": [
+		"python3-sqlalchemy",
+		"python3-whoosh"
+	],
+	"python3-srs": [
+		"python3-bsddb3"
+	],
+	"python3-statsmodels": [
+		"python3-joblib",
+		"python3-cvxopt",
+		"python3-matplotlib"
+	],
+	"python3-sunpy": [
+		"python3-suds",
+		"python3-requests",
+		"python3-bs4",
+		"python3-sqlalchemy",
+		"python3-skimage"
+	],
+	"python3-sympy": [
+		"python3-numpy",
+		"python3-pil"
+	],
+	"python3-tables-lib": [
+		"python3-tables"
+	],
+	"python3-theano": [
+		"python3-nose",
+		"python3-nose-parameterized",
+		"python3-pydot"
+	],
+	"python3-tlslite-ng": [
+		"python3-crypto"
+	],
+	"python3-translate": [
+		"python3-aeidon",
+		"python3-vobject",
+		"python3-yaml",
+		"python3-chardet",
+		"python3-pycountry",
+		"python3-l20n",
+		"python3-simplejson",
+		"python3-iniparse",
+		"python3-lxml",
+		"python3-babel",
+		"python3-bs4",
+		"python3-utidylib"
+	],
+	"python3-twisted": [
+		"python3-pam",
+		"python3-serial"
+	],
+	"python3-typogrify": [
+		"python3-jinja2"
+	],
+	"python3-uncertainties": [
+		"python3-numpy"
+	],
+	"python3-uranium": [
+		"python3-stl"
+	],
+	"python3-vobject": [
+		"python3-tz"
+	],
+	"python3-webpy": [
+		"python3-cheetah",
+		"python3-psycopg2",
+		"python3-flup",
+		"python3-mysqldb"
+	],
+	"python3-webtest": [
+		"python3-lxml"
+	],
+	"python3-werkzeug": [
+		"python3-pyinotify"
+	],
+	"python3-wheel": [
+		"python3-xdg",
+		"python3-keyrings.alt",
+		"python3-keyring"
+	],
+	"python3-willow": [
+		"python3-wand",
+		"python3-pil"
+	],
+	"python3-winrm": [
+		"python3-requests-kerberos"
+	],
+	"python3-xarray": [
+		"python3-dask",
+		"python3-netcdf4",
+		"python3-bottleneck"
+	],
+	"python3-zc.customdoctests": [
+		"python3-manuel",
+		"python3-spidermonkey"
+	],
+	"python3-zmq-dbg": [
+		"python-dbg"
+	],
+	"python3-zzzeeksphinx": [
+		"python3-pygments"
+	]
+}
